@@ -5,3 +5,4 @@ console.log("Olá");
 e o repositorio no provedor de repositorios */
 //git add -> Adiciona os arquivos no repositorio
 //git status -> Lista os arquivos adicionados/modificados
+//git commit -> 
